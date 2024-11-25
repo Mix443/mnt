@@ -1,16 +1,54 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "His mother had always taught him",
-      "body": "His mother had always taught him not to ever think of himself as better than others. He'd tried to live by this motto. He never looked down on those who were less fortunate or who had less money than him. But the stupidity of the group of people he was talking to made him change his mind."
-    },
-    
-    {
-     "id": 2,
-     "title": "post2",
-     "body": "this_is_body"
-    
-    }
+  {
+    "id": 1,
+    "title": "Lorem ipsum",
+    "body": "Dolor sit amet consectetur adipiscing elit"
+  },
+  {
+    "id": 2,
+    "title": "Nulla facilisi",
+    "body": "Vivamus luctus urna sed urna ultricies ac tempor dui"
+  },
+  {
+    "id": 3,
+    "title": "Curabitur vehicula",
+    "body": "Fusce ut placerat orci nulla pellentesque dignissim"
+  },
+  {
+    "id": 4,
+    "title": "Praesent egestas",
+    "body": "Phasellus nec sem in justo pellentesque facilisis"
+  },
+  {
+    "id": 5,
+    "title": "Suspendisse potenti",
+    "body": "Maecenas tempus tellus eget condimentum rhoncus"
+  },
+  {
+    "id": 6,
+    "title": "Vivamus laoreet",
+    "body": "Nunc feugiat mi a tellus consequat imperdiet"
+  },
+  {
+    "id": 7,
+    "title": "Integer tincidunt",
+    "body": "Aliquam erat volutpat in hac habitasse platea dictumst"
+  },
+  {
+    "id": 8,
+    "title": "Phasellus nec",
+    "body": "Vestibulum fringilla pede sit amet augue"
+  },
+  {
+    "id": 9,
+    "title": "Cras dapibus",
+    "body": "Etiam ultricies nisi vel augue curabitur ullamcorper"
+  },
+  {
+    "id": 10,
+    "title": "Aliquam lorem",
+    "body": "Ante dapibus in viverra quis feugiat a tellus"
+  }
   ]
 }
