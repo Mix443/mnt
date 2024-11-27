@@ -1,0 +1,22 @@
+{
+  "posts": [
+  {
+    "id": 12971,
+    "title": "Dragon Ball Z",
+    "year": "1989",
+    "overview": "Es la continuación de la serie de anime 'Dragon Ball'. Se divide básicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de Cell y el despertar de Majin Buu. De éstas se desprenden subsagas y algunas otras historias que no son originales del manga.",
+    "tags": "Anime, Accion, Peleas",
+    "poster": "https://image.tmdb.org/t/p/original/p8ZU5kTDeVh0MnxiesKRw6hQDGn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/u3nEeIkCR7mcpEJXZpUGUTLmF3O.jpg"
+  },
+  {
+    "id": 95479,
+    "title": "Jujutsu Kaisen",
+    "year": "2020",
+    "overview": "Dificultades, arrepentimiento, vergüenza… Los sentimientos negativos de los humanos se convierten en Maldiciones que nos acechan en nuestra vida diaria. Las Maldiciones campan a sus anchas por todo el mundo, y pueden llevar a las personas a sufrir terribles desgracias e incluso dirigirlas a su muerte. Y lo que es peor: solo una Maldición puede exorcizar otra Maldición.",
+    "tags": "Anime, Accion, Peleas, Aventura, Siniestro",
+    "poster": "https://image.tmdb.org/t/p/original/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg"
+  }
+  ]
+}
