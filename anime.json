@@ -1,22 +1,184 @@
 {
-  "posts": [
-  {
-    "id": 12971,
-    "title": "Dragon Ball Z",
-    "year": "1989",
-    "overview": "Es la continuación de la serie de anime 'Dragon Ball'. Se divide básicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de Cell y el despertar de Majin Buu. De éstas se desprenden subsagas y algunas otras historias que no son originales del manga.",
-    "tags": "Anime, Accion, Peleas",
-    "poster": "https://image.tmdb.org/t/p/w300/p8ZU5kTDeVh0MnxiesKRw6hQDGn.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/u3nEeIkCR7mcpEJXZpUGUTLmF3O.jpg"
-  },
-  {
-    "id": 95479,
-    "title": "Jujutsu Kaisen",
-    "year": "2020",
-    "overview": "Dificultades, arrepentimiento, vergüenza… Los sentimientos negativos de los humanos se convierten en Maldiciones que nos acechan en nuestra vida diaria. Las Maldiciones campan a sus anchas por todo el mundo, y pueden llevar a las personas a sufrir terribles desgracias e incluso dirigirlas a su muerte. Y lo que es peor: solo una Maldición puede exorcizar otra Maldición.",
-    "tags": "Anime, Accion, Peleas, Aventura, Siniestro",
-    "poster": "https://image.tmdb.org/t/p/w300/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg"
-  }
-  ]
+    "posts": [
+        {
+            "id": 94605,
+            "title": "Arcane",
+            "year": "2021",
+            "overview": "Con las dispares ciudades de Piltover y Zaun como tel\u00f3n de fondo, dos hermanas luchan en bandos opuestos de una guerra entre tecnolog\u00edas m\u00e1gicas y creencias enfrentadas.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg"
+        },
+        {
+            "id": 1434,
+            "title": "Padre de familia",
+            "year": "1999",
+            "overview": "Los Griffin son una mediocre familia compuesta por Peter y Lois; sus hijos, Meg, Chris, y Stewie; y su antropom\u00f3rfica mascota canina Brian. Est\u00e1 ambientada en la ciudad ficticia de Quahog, Rhode Island, y gran parte de su humor se exhibe en forma de peque\u00f1os cortes que frecuentemente se mofan de la cultura americana.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/oalgdH3vglKvg1SB4OaMyoJ29sx.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg"
+        },
+        {
+            "id": 456,
+            "title": "Los Simpson",
+            "year": "1989",
+            "overview": "El d\u00eda a d\u00eda de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez a\u00f1os, intenta divertirse con travesuras de todo tipo. Lisa es la m\u00e1s inteligente de la familia, y Maggie, la m\u00e1s peque\u00f1a, es un beb\u00e9 que todav\u00eda no habla, pero que juega un importante papel.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/vH0Mghb0lNJ5k7EpDwI7iJV7qaO.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg"
+        },
+        {
+            "id": 131041,
+            "title": "BLUELOCK",
+            "year": "2022",
+            "overview": "Yoichi es un joven al que acaban de eliminar junto a su equipo. De pronto recibe una carta donde lo convocan para participar en un extra\u00f1o experimento sobre f\u00fatbol.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/Ah8WcTBGZ3PzPqwjpV93C05COgA.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/seMRyWVwIVBWbC9xaMzDMZJ8fUH.jpg"
+        },
+        {
+            "id": 1433,
+            "title": "Padre made in USA",
+            "year": "2005",
+            "overview": "Padre made in USA, es una serie de televisi\u00f3n de animaci\u00f3n para adolescentes y adultos del creador de Padre de familia, Seth MacFarlane.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/tDmAHjMJ9jQ7sDIrBY0UKUb5mXm.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/mc3rG5M9dFVjMfaCFNfbD5gu2pK.jpg"
+        },
+        {
+            "id": 16656,
+            "title": "\u0424\u0438\u0442\u0438\u043b\u044c",
+            "year": "1962",
+            "overview": "",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/hdlpSh7NstYZSVmuoeVENJdNaLR.jpg"
+        },
+        {
+            "id": 95897,
+            "title": "Overflow",
+            "year": "2020",
+            "overview": "La historia c\u00f3mico-rom\u00e1ntica se centra en un estudiante universitario, Kazushi Sud\u014d, y sus amigas de la infancia, las hermanas Shirakawa. Por extra\u00f1as circunstancias los tres terminan ba\u00f1\u00e1ndose juntos.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/lbMenc3mIqxnExUsdCYQiC2Bozl.jpg"
+        },
+        {
+            "id": 240411,
+            "title": "DAN DA DAN",
+            "year": "2024",
+            "overview": "En una apuesta por ver si existen los fantasmas o los alien\u00edgenas, dos adolescentes viven experiencias paranormales aterradoras, consiguen superpoderes y... \u00bfse enamoran?",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/drX1N080c08fn0xencilweSzW97.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/jlbUx0aHJupDVDlCo0R7UxSaUUd.jpg"
+        },
+        {
+            "id": 12971,
+            "title": "Dragon Ball Z",
+            "year": "1989",
+            "overview": "Continuaci\u00f3n del anime 'Dragon Ball' que se divide b\u00e1sicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de C\u00e9lula y el despertar de Monstruo Bu. De \u00e9stas se desprenden subsagas y algunas otras historias que no son originales del manga.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/p8ZU5kTDeVh0MnxiesKRw6hQDGn.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/s9xZojg7pNDv26hzvi0Lgt5esWC.jpg"
+        },
+        {
+            "id": 236994,
+            "title": "Dragon Ball Daima",
+            "year": "2024",
+            "overview": "Misteriosamente transformados en mini versiones de s\u00ed mismos, Goku y sus amigos viajan al Reino de los Demonios para descubrir la verdad y encontrar una cura.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/brd9Bp1MlH8oK2nzR6VV9imY46k.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg"
+        },
+        {
+            "id": 155256,
+            "title": "\u5f00\u5fc3\u8d85\u4eba\u8054\u76df",
+            "year": "2010",
+            "overview": "",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/wqOYz9kpRbznmYPdJFSwjZ4HCT9.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500"
+        },
+        {
+            "id": 60625,
+            "title": "Rick y Morty",
+            "year": "2013",
+            "overview": "Comedia animada que narra las aventuras de un cient\u00edfico loco Rick S\u00e1nchez, que regresa despu\u00e9s de 20 a\u00f1os para vivir con su hija, su marido y sus hijos Morty y Summer.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/rBF8wVQN8hTWHspVZBlI3h7HZJ.jpg"
+        },
+        {
+            "id": 57706,
+            "title": "Ranma \u00bd",
+            "year": "1989",
+            "overview": "Ranma Saotome tiene diecis\u00e9is a\u00f1os y fue entrenado en las artes marciales desde peque\u00f1o. Como consecuencia de un accidente durante uno de sus entrenamientos, Ranma sufre de una maldici\u00f3n que le obliga convertirse en mujer cada vez que tiene contacto con el agua fr\u00eda, mientras que el contacto con el agua caliente revierte dicho efecto convirti\u00e9ndolo nuevamente en chico. Ranma intenta librarse de su maldici\u00f3n, mientras que debe lidiar con su compromiso de matrimonio con la adolescente Akane Tendo, que fue pactado varios a\u00f1os antes por los padres de ambos j\u00f3venes.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/tQ2iE3yhQbaPhDHkIObgubsCp9t.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/dI2O0d5Dkk8tpuTvCkUKQw3LNMv.jpg"
+        },
+        {
+            "id": 127532,
+            "title": "Solo Leveling",
+            "year": "2024",
+            "overview": "Lo que no te mata te hace m\u00e1s fuerte, pero en el caso de Sung Jinwoo, lo que lo mat\u00f3 lo hizo m\u00e1s fuerte. Despu\u00e9s de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regres\u00f3 con el Sistema, un programa que solo \u00e9l puede ver y que eleva su nivel en todos los sentidos. Ahora, est\u00e1 decidido a descubrir los secretos detr\u00e1s de sus poderes y la mazmorra que los engendr\u00f3.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/lheS6E8JKFLdan3qU8xRQvutCQj.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/xMNH87maNLt9n2bMDYeI6db5VFm.jpg"
+        },
+        {
+            "id": 115994,
+            "title": "Peerless Martial Spirit",
+            "year": "2020",
+            "overview": "En el continente de Longmai se alzan miles de clanes, existen innumerables sectas y el cultivo es el modo de vida. Los fuertes pueden hacer lo que quieran mientras que los d\u00e9biles viven como hormigas. El joven Chen Feng tiene una regi\u00f3n dan incompleta, por lo que es incapaz de cultivar, y soport\u00f3 innumerables burlas dirigidas a \u00e9l. Hasta que obtuvo una misteriosa l\u00ednea de sangre de drag\u00f3n, \u00a1rompiendo su capullo y abriendo un nuevo cap\u00edtulo en su vida! Coquetas esp\u00edritus de zorro demon\u00edaco, fr\u00edas emperadoras, muchachas demonio o princesas de un prestigioso clan, todas ellas saltan a mi abrazo. Con la incomparable herencia, manifestar\u00e9 el esp\u00edritu marcial m\u00e1s fuerte, obtendr\u00e9 todas las bellezas y mirar\u00e9 desde los cielos.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/fDjervHFBVuxo9nHl0gh3AM0TvE.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/xnamKl7fX0oRwRXuvovWDIwrcGT.jpg"
+        },
+        {
+            "id": 1025,
+            "title": "Las aventuras de Rocky y Bullwinkle",
+            "year": "1959",
+            "overview": "Las aventuras de Rocky y Bullwinkle es el nombre colectivo de dos series exitosas de la televisi\u00f3n estadounidense que se emitieron durante los a\u00f1os '60: \"Rocky and His Friends\" (1959\u20131961) y \"The Bullwinkle Show\" (1961\u20131964). Mucho de este \u00e9xito era un resultado de que el show apuntada hacia ni\u00f1os y adultos. Los dibujos simples y los fondos sencillos y absurdos como los dibujar\u00edan los ni\u00f1os, sumado a el uso listo de un lenguaje adulto y referencias a la cultura popular. Dentro del show, se encuentran los segmentos de otros cartoons como Dudley Bueno, El Sr. Peabody y lo Improbable de la Historia, Cuentos de Hadas Fracturados y Esopo e Hijo, adem\u00e1s de bumpers como el Sr. Sabelotodo y el Rinc\u00f3n de Bullwinkle, los cuales tambi\u00e9n est\u00e1n recogidos en estos episodios.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/cAMWBJyYynFWxJNrIvVnHlN2e9P.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/6wVEWwNpOOIWalkqsoV8SNGBryI.jpg"
+        },
+        {
+            "id": 65334,
+            "title": "Miraculous: Las aventuras de Ladybug",
+            "year": "2015",
+            "overview": "Cuando Par\u00eds corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superh\u00e9roe al servicio de la ciudad.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/kphxoWmU5NbNbkTSkJnMe3EbguE.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/ogMd4e3A0uSNwZADzgC23zCByoi.jpg"
+        },
+        {
+            "id": 95479,
+            "title": "Jujutsu Kaisen",
+            "year": "2020",
+            "overview": "Dificultades, arrepentimiento, verg\u00fcenza\u2026 Los sentimientos negativos de los humanos se convierten en Maldiciones que nos acechan en nuestra vida diaria. Las Maldiciones campan a sus anchas por todo el mundo, y pueden llevar a las personas a sufrir terribles desgracias e incluso dirigirlas a su muerte. Y lo que es peor: solo una Maldici\u00f3n puede exorcizar otra Maldici\u00f3n.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg"
+        },
+        {
+            "id": 124003,
+            "title": "Perfect World",
+            "year": "2021",
+            "overview": "Una mota de polvo puede llenar un oc\u00e9ano. Una brizna de hierba puede destruir el sol, la luna y las estrellas. Un movimiento de dedos puede poner el mundo patas arriba. Grupos de h\u00e9roes se alzan, e innumerables clanes se unen. Varios santos luchan por el poder y el mundo entero se sume en el caos. Pregunto a la ilimitada Madre Tierra: \u00bfQui\u00e9n decide las subidas y bajadas? Un joven sale del desierto est\u00e9ril, y todo comienza a partir de ah\u00ed...",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/jO2Ttg1JxzF7e0pYKsL52olTfx1.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/qgTHKXeje3iInDXFaIBsIHpJQzu.jpg"
+        },
+        {
+            "id": 30984,
+            "title": "Bleach",
+            "year": "2004",
+            "overview": "La serie narra las aventuras de\u00a0Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los\u00a0esp\u00edritus.\u00a0Una noche, Ichigo se encuentra con una\u00a0shinigami\u00a0\u2014personificaci\u00f3n japonesa del\u00a0Dios de la muerte\u2014 llamada\u00a0Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversaci\u00f3n es interrumpida por la aparici\u00f3n de un\u00a0hollow, un esp\u00edritu maligno. Despu\u00e9s de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al esp\u00edritu.",
+            "tags": "Anime",
+            "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/7bSQNQuhHeInFMfzMwevfCiqcTm.jpg",
+            "banner": "https:\/\/image.tmdb.org\/t\/p\/w500\/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
+        }
+    ]
 }
